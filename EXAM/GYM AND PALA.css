@@ -1,0 +1,114 @@
+.brown-div{
+    background-color: rgb(12, 7, 7);
+    font-family: gabriola;
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+    color: whitesmoke;
+    
+
+}
+brown-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    border-bottom: 8px solid orangered;
+    
+      
+}
+
+.body {
+background-image: url(GUM.jpg) ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+padding: auto;
+
+}
+
+.li{
+    padding-right: 20px;
+    color:white;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 2px; 
+    background-color: rgb(0, 0, 0);
+    display: block;
+     color: whitesmoke;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.us {
+
+    height: 200px;
+    width: 700px;
+    position: fixed;
+    top: 30%;
+    left: 40%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+.hi {
+   color:white;
+   font-size: 70px;
+   font-family: gabriola;
+
+}
+
+.hey {
+    color: white;
+    font-size: 40px;
+    font-family: pristina;
+    background-color: rgba(3, 0, 0, 0.726);  /* red with opacity */
+
+
+}
+
+.heya {
+    color: white;
+    font-size: 40px;
+    font-family: pristina;
+    background-color: rgba(3, 0, 0, 0.726);  /* red with opacity */
+
+}
+
+.button {
+   background-color: blue;
+   color: aliceblue;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-radius: 20px;
+   border: 1px solid blue;
+
+}
+
+.li {
+
+     list-style: none;
+     text-decoration: none;
+     display: flex;
+     color: antiquewhite;
+     font-size: 18px;
+     font-family: open sans-serif;
+     padding-right: 2;
+     
+}
+
+ul li a {
+  display: flex;
+  text-decoration: none;
+  padding-right: 25px;
+  color: antiquewhite;
+
+}
+

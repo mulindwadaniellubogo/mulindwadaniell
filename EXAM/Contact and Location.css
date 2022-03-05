@@ -1,0 +1,44 @@
+.body {
+    background-image: url(Contact\ and\ Location.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: auto;
+    
+    }
+    .footer {
+        text-align: center;
+        padding: 2px; 
+        background-color: rgb(107, 66, 66);
+        display: block;
+         color: whitesmoke;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+    
+    } 
+    
+    .h {
+        color: brown;
+        font-size: 70px;
+        font-family: gabriola;
+        padding-left: 75px;
+        text-align: center;
+     
+     }
+     .he {
+        color: white;
+        font-size: 35px;
+        font-family: pristina;
+     }
+     .hea {
+        color:white;
+        font-size: 30px;
+        font-family: Bauhaus 93;
+        background-color: rgba(0, 0, 0, 0.74);  /* red with opacity */
+    
+    }
+    
+     
+
